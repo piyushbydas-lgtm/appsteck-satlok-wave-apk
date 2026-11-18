@@ -1,0 +1,6 @@
+{
+  "name": "SATLOK WAVE",
+  "description": "Spiritual knowledge application based on the teachings of Sant Rampal Ji Maharaj and Kabir Saheb Ji with media, satsang, and scriptural evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
